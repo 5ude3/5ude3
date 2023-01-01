@@ -1,4 +1,4 @@
-# 👨‍💻Hey this is Sudeep!<hr>
+# 👨‍💻Hey this is Sudeep!
 <br>
 ## 📖Learning....
   - Web development
