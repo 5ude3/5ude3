@@ -1,13 +1,19 @@
 # 👨‍💻Hey this is Sudeep!
 <br>
+
 ## 📖Learning....
-  - Web development
-  - Competitive programming<br>
-## 💻Interested in
-  - Data Science
-  - Machine Learning<br>
-## 📚Stack
-  - JavaScript
-  - Python
-  - HTML
-  - CSS
+
+- Web development<br>
+- Competitive programming<br><br>
+  
+## 💻Interested in<br>
+  
+- Data Science<br>
+- Machine Learning<br><br>
+  
+## 📚Stack<br>
+  
+- JavaScript<br>
+- Python<br>
+- HTML<br>
+- CSS<br>
